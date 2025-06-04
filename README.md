@@ -65,11 +65,11 @@ Place these images in `src/main/resources/static/images/`:
 
 ### Build and Run
 
-```bash
+```
 mvn clean install
 mvn spring-boot:run
-
 ```
+
 
 ### Access Application
 ```
